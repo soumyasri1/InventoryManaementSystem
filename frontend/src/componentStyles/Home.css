@@ -1,0 +1,130 @@
+/* Navbar styles */
+body{
+  background-color: A59491;
+}
+.navbar {
+  background-color: #48484a; 
+  color: #fff;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 110px;
+  height: 50px;
+  margin-right: 10px; 
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+}
+
+.nav-links li {
+  margin-right: 40px;
+  font-size: 1.2rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.3s ease-in-out; 
+}
+
+.nav-links a:hover {
+  color: #ff9d00; 
+}
+
+.nav-links button {
+  background: none;
+  color: #fff;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  transition: color 0.3s ease-in-out; 
+}
+
+.nav-links button:hover {
+  color: #f19306; 
+}
+
+
+
+.categories-dropdown-container {
+  position: relative;
+  display: inline-block;
+}
+
+.categories-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1;
+  background-color: #616464; 
+  border: 1px solid #9da1a3; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  display: none;
+}
+
+.categories-dropdown ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  
+}
+
+.categories-dropdown li {
+  list-style: none;
+  margin: 8px 8px;
+  color: #fff;
+  font-size: 1rem; 
+}
+
+.categories-dropdown-container:focus-within .categories-dropdown,
+.categories-dropdown-container:hover .categories-dropdown {
+  display: block;
+}
+#categroryname{
+  color:white;
+  text-align: center;
+  text-transform: capitalize;
+
+}
+
+#profileIcon {
+ 
+  margin-right: 10px;
+  color: #fff; 
+  border-radius:50%;
+  border:2px solid white;
+}
+
+#logout-button {
+ 
+  margin-left: 20px;
+  background-color: #f87c08; 
+  color: #fff;
+  border: none;
+  font-size: 1.2rem;
+  padding: 2px 2px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#logout-button:hover {
+  background-color: #e7ac09; 
+}

@@ -1,0 +1,36 @@
+.footer {
+    background-color: #47474b; 
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-links a,
+.social-icons a {
+    color: #f1f2f9;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 19px;
+    transition: color 0.3s ease-in-out;
+}
+
+.footer-links a:hover,
+.social-icons a:hover {
+    color: #f38c0d; 
+}
+
+.copyright {
+    margin-top: 15px;
+    font-size: 20px;
+    opacity: 0.8;
+    color: #ccc; 
+}

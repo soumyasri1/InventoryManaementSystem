@@ -1,0 +1,49 @@
+/* AddProduct.css */
+.add-product-container {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #CDDCED;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-form {
+  display: grid;
+  gap: 20px;
+}
+
+.product-form label {
+  font-weight: bold;
+  font-size: 14px;
+  color: #333;
+}
+
+.product-form input,
+.product-form textarea {
+  width: 100%;
+  padding: 12px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.product-form textarea {
+  resize: vertical; 
+}
+
+.product-form button {
+  padding: 12px;
+  background-color: #0fcadf;
+  color: white;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.product-form button:hover {
+  background-color: #138aec;
+}
