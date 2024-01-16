@@ -60,7 +60,48 @@ Register: Component for user registration.
 Home.js: Main component for the home page.
 Footer.js: Component for the footer section.
 
-# componentStyles: Styles for the components.
+# componentStyles: Styles for the each components.
+
+# Screenshots 
+
+# Home Page Before Login
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/fb9ef1a6-c3cc-4ec8-8323-0dce820b2034)
+
+# Register 
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/64895ae8-28f7-411b-98af-62316b5ebeab)
+
+# login
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/48eb7417-972b-482e-99ca-60658cadb06b)
+
+# Home Page after Login 
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/e2907a3d-c9a3-4f4c-96db-ff77ec515017)
+
+# Footer 
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/0f140ec7-fc88-438b-86af-0aecb5cc1bcf)
+
+# category List
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/25a64a9c-a6dd-4e37-93b3-18d4e41feea5)
+
+# Products according to Category
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/b051a6fe-5141-49b9-9a30-703ccd304f1f)
+
+# add Products 
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/ec498d32-3c3f-47bf-a87f-87b8acfc9359)
+
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/b70fc5d2-c267-4696-92e2-65eb46a49801)
+
+# Product details Page 
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/acf4659d-1ce8-4b6d-86f0-505cfd31e883)
+
+# Edit Product Page 
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/8ed8aa0b-a2f3-4ec2-9120-fe94530fa0d8)
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/0f049dd1-9e6c-4d7b-8001-4d69880626d1)
+
+# deletion of Product
+![image](https://github.com/soumyasri1/InventoryManaementSystem/assets/31533704/ab21e43b-7272-4a24-9ddc-47307ad754f5)
+
+
+
 
 
 
